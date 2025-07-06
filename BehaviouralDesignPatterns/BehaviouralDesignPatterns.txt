@@ -1,0 +1,8 @@
+Observer Pattern
+Strategy Pattern
+Command Pattern
+Template Method Pattern
+Iterator Pattern
+State Pattern
+Mediator Pattern
+Memento Pattern
